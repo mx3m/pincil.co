@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 98 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Artboard 4</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient x1="100%" y1="46.5983778%" x2="0%" y2="46.5983768%" id="linearGradient-1">
+            <stop stop-color="#EEE4DF" offset="0%"></stop>
+            <stop stop-color="#EFE5E0" offset="49.6568861%"></stop>
+            <stop stop-color="#F4EBE7" offset="49.7637932%"></stop>
+            <stop stop-color="#F6EDEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="46.5983778%" x2="0%" y2="46.5983768%" id="linearGradient-2">
+            <stop stop-color="#F9DD28" offset="0%"></stop>
+            <stop stop-color="#F8DD29" offset="29.5833333%"></stop>
+            <stop stop-color="#FFE435" offset="29.6073288%"></stop>
+            <stop stop-color="#FFE435" offset="74.3924753%"></stop>
+            <stop stop-color="#FFE956" offset="74.4491621%"></stop>
+            <stop stop-color="#FEE957" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-4" sketch:type="MSArtboardGroup" transform="translate(-671.000000, 0.000000)">
+            <g id="Pen-Illustration" sketch:type="MSLayerGroup" transform="translate(671.000000, 0.000000)">
+                <path d="M98,115.532915 L98.0058289,115.532935 L98,115.543577 L98,115.638159 L97.9483089,115.637946 L49,205 L0.0231262018,115.235305 L0,115.235209 L0,105 L98,105 L98,115.532915 Z M98,115.532915" id="Triangle-1" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+                <path d="M98,0 L0,0 L0,115.236544 L4.60375947,110.632785 C4.98540846,110.251136 5.62273728,110.244058 6.01146421,110.632785 L12.3076118,116.928932 L18.6037595,110.632785 C18.9854085,110.251136 19.6227373,110.244058 20.0114642,110.632785 L26.3786797,117 L27.236544,117 L33.6037595,110.632785 C33.9854085,110.251136 34.6227373,110.244058 35.0114642,110.632785 L41.3076118,116.928932 L47.6037595,110.632785 C47.9854085,110.251136 48.6227373,110.244058 49.0114642,110.632785 L55.3076118,116.928932 L61.6037595,110.632785 C61.9854085,110.251136 62.6227373,110.244058 63.0114642,110.632785 L69.3786797,117 L70.236544,117 L76.6037595,110.632785 C76.9854085,110.251136 77.6227373,110.244058 78.0114642,110.632785 L84.3076118,116.928932 L90.6037595,110.632785 C90.9854085,110.251136 91.6227373,110.244058 92.0114642,110.632785 L98,115.62132 L98,0 Z M98,0" id="Rectangle-26" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+                <polygon d="M49.0155543,204.997254 L56.665418,191 L41.3656906,191 L49.0155543,204.997254 Z M49.0155543,204.997254" id="Triangle-1" fill="#535353" sketch:type="MSShapeGroup" points="49.0155543 204.997254 56.665418 191 41.3656906 191 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
