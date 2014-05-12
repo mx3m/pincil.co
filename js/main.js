@@ -3,6 +3,97 @@ $(document).ready(function(){
 	var imgDir = "img/",
 	designers = [
 		{
+			firstName: 'Jonny',
+			lastName: 'Ashcroft',
+			avatar: 'ashcroft.jpg',
+			twitterUrl: 'https://twitter.com/jonny_ashcroft',
+			dribbbleUrl: 'http://dribbble.com/jonnyashcroft'
+		},
+		{
+			firstName: 'Ian',
+			lastName: 'Collins',
+			avatar: 'collins.jpg',
+			twitterUrl: 'https://twitter.com/3n',
+			dribbbleUrl: 'http://dribbble.com/iannn'
+		},
+		{
+			firstName: 'Ryan',
+			lastName: 'Sims',
+			avatar: 'sims.jpg',
+			twitterUrl: 'https://twitter.com/simmy',
+			dribbbleUrl: 'http://dribbble.com/simmy'
+		},
+		{
+			firstName: 'Lotta',
+			lastName: 'Nieminen',
+			avatar: 'nieminen.jpg',
+			twitterUrl: 'https://twitter.com/lottanieminen',
+			dribbbleUrl: 'http://dribbble.com/lottanieminen'
+		},
+		{
+			firstName: 'Jessica',
+			lastName: 'Hische',
+			avatar: 'hische.jpg',
+			twitterUrl: 'https://twitter.com/Jessicahische',
+			dribbbleUrl: 'http://dribbble.com/jessicahische'
+		},
+		{
+			firstName: 'Meagan',
+			lastName: 'Fischer',
+			avatar: 'fischer.jpg',
+			twitterUrl: 'https://twitter.com/owltastic',
+			dribbbleUrl: 'http://dribbble.com/owltastic'
+		},
+		{
+			firstName: 'Aaron',
+			lastName: 'Sananes',
+			avatar: 'sananes.jpg',
+			twitterUrl: 'https://twitter.com/aasananes',
+			dribbbleUrl: 'http://dribbble.com/sananes'
+		},
+		{
+			firstName: 'Jeremy',
+			lastName: 'Booth',
+			avatar: 'booth.jpg',
+			twitterUrl: 'https://twitter.com/@jeremybooth',
+			dribbbleUrl: 'http://dribbble.com/jeremybooth'
+		},
+		{
+			firstName: 'Michelle',
+			lastName: 'Vandy',
+			avatar: 'vandy.jpg',
+			twitterUrl: 'https://twitter.com/Michelle_Vandy',
+			dribbbleUrl: 'http://dribbble.com/michellevandy'
+		},
+		{
+			firstName: 'Geri',
+			lastName: 'Coady',
+			avatar: 'coady.jpg',
+			twitterUrl: 'https://twitter.com/hellogeri',
+			dribbbleUrl: 'http://dribbble.com/hellogeri'
+		},
+		{
+			firstName: 'Karli',
+			lastName: 'Ingersoll',
+			avatar: 'ingersoll.jpg',
+			twitterUrl: 'https://twitter.com/karliingersoll',
+			dribbbleUrl: 'http://dribbble.com/karliingersoll'
+		},
+		{
+			firstName: 'Justin',
+			lastName: 'Pervorse',
+			avatar: 'pervorse.jpg',
+			twitterUrl: 'https://twitter.com/justinpervorse',
+			dribbbleUrl: 'http://dribbble.com/justinpervorse'
+		},
+		{
+			firstName: 'Alice',
+			lastName: 'Lee',
+			avatar: 'lee.jpg',
+			twitterUrl: 'https://twitter.com/byalicelee',
+			dribbbleUrl: 'http://dribbble.com/byalicelee'
+		},
+		{
 			firstName: 'Wouter de',
 			lastName: 'Bres',
 			avatar: 'bres.jpg',
